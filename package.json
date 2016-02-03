@@ -1,7 +1,7 @@
 {
 	"name": "stbroker",
 	"description": "Communicate with an STB frontend",
-	"version": "0.1.0-alpha",
+	"version": "0.1.0",
 	"author": "Jelle De Loecker <jelle@develry.be>",
 	"keywords": ["stb", "iptv"],
 	"main": "./lib/init.js",
