@@ -1,0 +1,16 @@
+{
+	"name": "stbroker",
+	"description": "Communicate with an STB frontend",
+	"version": "0.1.0-alpha",
+	"author": "Jelle De Loecker <jelle@develry.be>",
+	"keywords": ["stb", "iptv"],
+	"main": "./lib/init.js",
+	"repository": "git@github.com:skerit/stbroker.git",
+	"license": "MIT",
+	"dependencies": {
+		"protoblast": "~0.1.12"
+	},
+	"engines": {
+		"node": ">=0.10"
+	}
+}
